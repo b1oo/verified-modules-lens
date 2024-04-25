@@ -1,14 +1,14 @@
 [
   {
     "name": "FeeFollowModule",
-    "address": "0xa8f6ba162dB789039D07A4f0ce90b1aE1f46FE8E",
+    "address": "0x060f5448ae8aCF0Bc06D040400c6A89F45b488bb",
     "requiresUserFunds": true,
-    "blockExplorerLink": "https://polygonscan.com/address/0xa8f6ba162dB789039D07A4f0ce90b1aE1f46FE8E#code"
+    "blockExplorerLink": "https://polygonscan.com/address/0x060f5448ae8aCF0Bc06D040400c6A89F45b488bbE#code"
   },
   {
     "name": "RevertFollowModule",
     "address": "0x4E2D0157464501C98E781491a9dbC99c2F3fD90f",
     "requiresUserFunds": false,
-    "blockExplorerLink": "https://polygonscan.com/address/0x4E2D0157464501C98E781491a9dbC99c2F3fD90f#code"
+    "blockExplorerLink": "https://polygonscan.com/address/0x060f5448ae8aCF0Bc06D040400c6A89F45b488bb#code"
   }
 ]
